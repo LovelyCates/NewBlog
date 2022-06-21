@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2142a87.css",
+    "main.js": "/static/js/main.a1588ddb.js",
+    "static/js/27.d425fb27.chunk.js": "/static/js/27.d425fb27.chunk.js",
+    "static/media/background.jpg": "/static/media/background.ef472d798843fcea2486.jpg",
+    "static/media/GuDianMingChaoTi.ttf": "/static/media/GuDianMingChaoTi.0715b8ad2570a546f0dd.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d2142a87.css",
+    "static/js/main.a1588ddb.js"
+  ]
+}
